@@ -1,0 +1,40 @@
+{
+    "name": "hacker-theme",
+    "version": "0.0.1",
+    "publisher": "brenix",
+    "engines": {
+        "vscode": "*"
+    },
+    "displayName": "Hacker",
+    "description": "Old-school Hackerish Theme",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Hacker",
+        "Theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hacker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hacker-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#0a0b0a",
+        "theme": "dark"
+    },
+    "homepage": "https://github.com/brenix/vscode-hacker/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/brenix/vscode-hacker/issues",
+        "email": "brenix@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/brenix/vscode-hacker"
+    }
+}
