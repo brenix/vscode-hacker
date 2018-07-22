@@ -1,3 +1,3 @@
 # Preview
 
-![Preview](https://imgur.com/st39C9Z)
+![Preview](https://i.imgur.com/st39C9Z.png)
