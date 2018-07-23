@@ -5,8 +5,8 @@
     "engines": {
         "vscode": "*"
     },
-    "displayName": "Hacker",
-    "description": "Old-school Hackerish Theme",
+    "displayName": "Hacker Theme",
+    "description": "Old-school Hacker Theme for VSCode",
     "categories": [
         "Themes"
     ],
