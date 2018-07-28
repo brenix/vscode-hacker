@@ -123,7 +123,7 @@
         "list.errorForeground": "#ea4646",
         "list.focusBackground": "#abecb93b",
         "list.focusForeground": "#A7ECB7",
-        "list.highlightForeground": "#0097fb",
+        "list.highlightForeground": "#A7ECB7",
         "list.hoverBackground": "#292929",
         "list.hoverForeground": "#bbbbbb",
         "list.inactiveFocusBackground": "#313135",
@@ -161,7 +161,7 @@
         "peekViewTitleDescription.foreground": "#bbbbbb",
         "peekViewTitleLabel.foreground": "#bbbbbb",
         "pickerGroup.border": "#3f3f46",
-        "pickerGroup.foreground": "#0097fb99",
+        "pickerGroup.foreground": "#A7ECB7",
         "progressBar.background": "#0e70c0",
         "scrollbar.shadow": "#000000",
         "scrollbarSlider.activeBackground": "#bfbfbf66",
@@ -262,7 +262,8 @@
                 "punctuation.definition.string",
                 "punctuation.definition.parameters",
                 "punctuation.definition.string",
-                "punctuation.definition.array"
+                "punctuation.definition.array",
+                "punctuation.separator.list",
             ],
             "settings": {
                 "foreground": "#dfdfdf"
