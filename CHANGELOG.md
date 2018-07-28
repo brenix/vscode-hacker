@@ -1,3 +1,8 @@
+## 0.0.4 (2018-07-28)
+
+* refactor theme json
+* use more green, less blueish
+
 ## 0.0.3 (2018-07-23)
 
 * various ui tweaks
