@@ -28,13 +28,13 @@
         "color": "#0a0b0a",
         "theme": "dark"
     },
-    "homepage": "https://github.com/brenix/vscode-hacker/blob/master/README.md",
+    "homepage": "https://gitlab.com/brenix/vscode-hacker/blob/master/README.md",
     "bugs": {
-        "url": "https://github.com/brenix/vscode-hacker/issues",
+        "url": "https://gitlab.com/brenix/vscode-hacker/issues",
         "email": "brenix@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/brenix/vscode-hacker"
+        "url": "https://gitlab.com/brenix/vscode-hacker"
     }
 }

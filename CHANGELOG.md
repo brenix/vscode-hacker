@@ -1,3 +1,7 @@
+## 0.0.5 (2019-03-03)
+
+* move source repository to gitlab
+
 ## 0.0.4 (2018-07-28)
 
 * refactor theme json
