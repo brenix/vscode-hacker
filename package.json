@@ -1,6 +1,6 @@
 {
     "name": "hacker-theme",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "publisher": "brenix",
     "engines": {
         "vscode": "*"
@@ -28,13 +28,13 @@
         "color": "#0a0b0a",
         "theme": "dark"
     },
-    "homepage": "https://gitlab.com/brenix/vscode-hacker/blob/master/README.md",
+    "homepage": "https://github.com/brenix/vscode-hacker/blob/master/README.md",
     "bugs": {
-        "url": "https://gitlab.com/brenix/vscode-hacker/issues",
+        "url": "https://github.com/brenix/vscode-hacker/issues",
         "email": "brenix@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://gitlab.com/brenix/vscode-hacker"
+        "url": "https://github.com/brenix/vscode-hacker"
     }
 }

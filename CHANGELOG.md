@@ -1,3 +1,7 @@
+## 0.0.6 (2019-05-29)
+
+* move source repository back to github
+
 ## 0.0.5 (2019-03-03)
 
 * move source repository to gitlab
